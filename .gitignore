@@ -4,7 +4,7 @@
 # User-specific files
 *.rsuser
 *.suo
-*.user
+# want to keep .csproj.user *.user
 *.userosscache
 *.sln.docstates
 
@@ -81,7 +81,7 @@ StyleCopReport.xml
 *.log
 *.vspscc
 *.vssscc
-*.user
+# want to keep .csproj.user *.user
 *.userosscache
 *.suo
 *.sln.docstates
