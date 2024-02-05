@@ -1,8 +1,8 @@
 # Export Import Model
 
-This Add-In provides the ability to Export and Import a variety of Simio objects.
-When the Add-In ("Export Import Model") is selected from the Simio desktop "Project Home" tab using the "Actions" button, a form is presented to the user.
-This form has Export, Delete, and Import categories with options to Export or Import, including Table Data, Objects and Links, Vertices, Networks, Elements, etc.
+This Add-In provides the ability to export, import and delete a variety of Simio objects, links, table data, etc... from your model.  This add-in provides a quick way modify your model.  It is also a great resource for understanding the Simio Design Time API.
+
+The Add-In ("Export Import Model") is selected from the Simio desktop "Project Home" tab using the "Actions" button.  When selected, a form is presented to the user.  This form has Export, Delete, and Import categories with options to Export or Import, including Table Data, Objects and Links, Vertices, Networks, Elements, etc.
 
 To see this in action, you can create a source-server-sink and then use the Export-Import-Model to export "Objects and Links", then clear the model and then import "Objects and Links".
 
